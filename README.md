@@ -1,17 +1,17 @@
+- 🔭 I’m currently working on DevOps and Contributing to Open Source
+- 🌱 I’m currently learning DevOps 
+- 📫 How to reach me: mfonnta05@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Butterflies can not see how beautiful they are.
+
 ### Hacktoberfest :)
 [![@mfon's Holopin board](https://holopin.io/api/user/board?user=mfon)](https://holopin.io/@mfon)
 
+
+
+
 <!--
-**Mfonn/mfonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
