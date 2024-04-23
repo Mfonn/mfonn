@@ -1,5 +1,5 @@
 - My Portfolio: https://mfonn.github.io/portfolio_mfon/
-- 🔭 I’m currently working on **DevOps** and Contributing to **Open Source**
+- 🔭 I’m currently working on **Cloud** and Contributing to **Open Source**
 - 🌱 I’m currently learning **Technical Writing** and **Cloud Services**
 - 📫 How to reach me: mfonnta05@gmail.com
 - 😄 Pronouns: She/Her
