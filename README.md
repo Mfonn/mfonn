@@ -1,6 +1,6 @@
 - My Portfolio: https://mfonn.github.io/portfolio_mfon/
 - 🔭 I’m currently working on **Cloud** and Contributing to **Open Source**,  **Technical Writing** 
-- 🌱 I’m currently learning Machine Learning and Artificial Intelligence on the Cloud
+- 🌱 I’m currently learning **Machine Learning** and **Artificial Intelligence** on the Cloud
 - 📫 How to reach me: mfonntaMD@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: 
