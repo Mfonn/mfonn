@@ -1,7 +1,7 @@
 - My Portfolio: https://mfonn.github.io/portfolio_mfon/
-- 🔭 I’m currently working on **Cloud** and Contributing to **Open Source**
-- 🌱 I’m currently learning **Technical Writing** and **Cloud Services**
-- 📫 How to reach me: mfonnta05@gmail.com
+- 🔭 I’m currently working on **Cloud** and Contributing to **Open Source**,  **Technical Writing** 
+- 🌱 I’m currently learning Machine Learning and Artificial Intelligence on the Cloud
+- 📫 How to reach me: mfonntaMD@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: 
 > *Butterflies can not see how beautiful they are*. <br>
