@@ -1,8 +1,8 @@
 HI There⚡!
-- 🔭 I’m currently working on **Cloud** and Contributing to **Open Source**,  **Technical Writing** 
-- 🌱 Current Obsession **Machine Learning** and **Artificial Intelligence** on the Cloud
+- 🔭  **CloudApplication Security** **Open Source** **Technical Documentation** 
+- 🌱  **Agentic Workflows** and **AI Agents** 
 - 📫 How to reach me: mfonntaMD@gmail.com
-- 😄 Pronouns: She/Her
+
 
 
 
