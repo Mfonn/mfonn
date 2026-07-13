@@ -1,5 +1,5 @@
 HI There⚡!
-- 🔭  **CloudApplication Security** **Open Source** **Technical Documentation** 
+- 🔭  **Cloud Application Security**, **Open Source**, **Technical Documentation** 
 - 🌱  **Agentic Workflows** and **AI Agents** 
 - 📫 How to reach me: mfonntaMD@gmail.com
 
