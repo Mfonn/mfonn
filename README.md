@@ -9,10 +9,10 @@ HI There⚡!
 
 [![GitHub followers](https://img.shields.io/github/followers/mfonn?style=social)](https://github.com/mfonn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/mfonnta)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://github.com/mfonn)
 [![AWS](https://img.shields.io/badge/Cloud-AWS-orange)](https://aws.amazon.com)
 [![Kubernetes](https://img.shields.io/badge/K8s-Orchestration-blue)](https://kubernetes.io)
 [![Terraform](https://img.shields.io/badge/IaC-Terraform-purple)](https://terraform.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://github.com/mfonn)
 
 ---
 
